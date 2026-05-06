@@ -16,6 +16,7 @@ let package = Package(
     targets: [
         .target(
             name: "JPRouterKit",
-            path: "Sources/JPRouter"),
+            path: "JPRouter/Sources/JPRouter"),
     ]
 )
+
